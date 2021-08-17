@@ -1,0 +1,22 @@
+.dataFilter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.dataFilter h2{
+    color: white;
+    font-size: 15px;
+}
+
+.selectDate{
+    height: 100%;
+    margin-right: 25px;
+    font-size: 15px;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}

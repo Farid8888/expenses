@@ -1,0 +1,36 @@
+.expense_item{
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 90%;
+}
+
+.amount{
+    text-align: end;
+    
+}
+
+.amountDiv{
+    font-size: 1.25rem;
+    padding: 10px 30px;
+    border:1px solid white;
+    border-radius: 10px;
+    background-color: rgb(80,3,80);
+}
+
+.title{
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+
+.expense_item span{
+    color: white;
+}
+
+.item{
+    display: flex;
+    background-color: #4b4b4b;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}

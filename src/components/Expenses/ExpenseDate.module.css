@@ -1,0 +1,23 @@
+.date{
+    color:'white';
+    width: 6rem;
+    text-align: center;
+    margin-right:20px ;
+    background-color: rgb(0, 0,30 );
+    padding: 10px;
+    border-radius: 10px;
+    border:1px solid white
+}
+
+.month{
+    color: white;
+}
+
+.day{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.date div{
+    color: white;
+}

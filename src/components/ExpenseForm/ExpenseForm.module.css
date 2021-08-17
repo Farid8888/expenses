@@ -1,0 +1,84 @@
+.btn-btn{
+    margin: auto;
+    margin-top: 10px;
+    text-align: end;
+}
+
+
+.form{
+    margin:2rem auto;
+    max-width: 95%;
+    width: 50rem;
+    background-color:  #a892ee;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.expenseAdd{
+    margin:2rem auto;
+    max-width: 95%;
+    width: 50rem;
+    background-color:  #a892ee;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.expenseForm{
+    text-align: center;
+}
+
+.titleAmount{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.title{
+    margin-right: 20px;
+}
+
+
+
+.title label,
+.amount label,
+.date label{
+    display: block;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.title input,
+.amount input,
+.date input{
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 6px;
+    border: none;
+    padding: 6px;
+}
+
+.btn{
+    text-align: end;
+    margin-top: 20px;
+    display: inline;
+}
+.btn1{
+    margin-right:15px ;
+}
+
+.btn button{
+    background-color: rgb(99, 43, 70);
+    font-size: inherit;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.btn button:hover,
+.btn button:active{
+    background-color: rgb(99, 43, 99);
+}
