@@ -3,7 +3,6 @@ import classes from './ExpenseDate.module.css'
 
 
 
-
 const ExpenseDate =(props)=>{
 const day = props.date.toLocaleString('en-Us',{day:'2-digit'})
 const month = props.date.toLocaleString('en-Us',{month:'long'})
